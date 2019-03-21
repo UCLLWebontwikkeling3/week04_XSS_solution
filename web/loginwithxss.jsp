@@ -13,6 +13,9 @@
 	</header>
 	<main>
 	<article>
+        <script>
+            document.cookie = "username=John Doe"
+        </script>
 		<form method="post" action="">
 			<fieldset>
 				<legend>Login</legend>
